@@ -1,0 +1,8 @@
+deb [arch=all] http://ftp.nl.debian.org/debian/ bullseye main contrib non-free
+deb-src [arch=all] http://ftp.nl.debian.org/debian/ bullseye main contrib non-free
+
+deb [arch=all] http://ftp.nl.debian.org/debian/ bullseye-updates main contrib non-free
+deb-src [arch=all] http://ftp.nl.debian.org/debian/ bullseye-updates main contrib non-free
+
+deb [arch=all] http://security.debian.org/ bullseye/updates main contrib non-free
+deb-src [arch=all] http://security.debian.org/ bullseye/updates main contrib non-free
